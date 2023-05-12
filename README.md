@@ -1,0 +1,2 @@
+# Gorisim
+ Bitirme Projesi
